@@ -34,7 +34,7 @@ Code
 
 ## Exploratory Data Analysis:
 
-[here](https://github.com/<rubytechme>/<SQL-employee-Data-Analysis>/blob/master/<directory>/<problemstatement.sql>)
+[here](https://github.com/rubytechme/SQL-Employee-Data-Analysis/commit/dd7ffc3cfffbcc3dfb3c0bd96b3a16dbf99ede01)
 
 ## Data Output:
 
