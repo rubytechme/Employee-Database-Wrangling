@@ -29,12 +29,11 @@ The following SQL features were incorporated:
 
 ## Creating tables:
 
-Code
-![](create.sql)
+[Click to view code](https://github.com/rubytechme/SQL-Employee-Data-Analysis/blob/main/create.sql)
 
 ## Exploratory Data Analysis:
 
-[here](https://github.com/rubytechme/SQL-Employee-Data-Analysis/commit/dd7ffc3cfffbcc3dfb3c0bd96b3a16dbf99ede01)
+[Click to view code](https://github.com/rubytechme/SQL-Employee-Data-Analysis/blob/main/EDA.sql)
 
 ## Data Output:
 
