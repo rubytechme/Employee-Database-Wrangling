@@ -48,7 +48,7 @@ The following SQL features were incorporated:
 
 ## Visualization:
 
-The report answers 4 questions:
+The report answers 5 questions:
 1. Which employee joined after the second half of 1981 in order of asc
 2. What is the average tenure of employees in the company? 
 3. Salary trend for employees identifying as clerk
