@@ -102,7 +102,7 @@ Analysis:
 
 2. The $ sign also gave me a problem and because i didnt want to take it out of my code, i then used the substring so the postgresql does not pick the $ sign 
 
-3. I couldnt get dates higher than where greater than 1981 which were contraints to 1981 only, so i has to intorduce 'date_part' to be able to get it
+3. I couldnt get dates higher than where greater than 1981 which were contraints to 1981 only, so i has to intorduce 'date_part' to temporarily seperate the year from the date and then extract it. 
 
 
 ## Conclusion:
