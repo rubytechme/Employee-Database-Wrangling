@@ -98,9 +98,12 @@ Analysis:
 
 ## Challenges ecountered:
 
-The problem I encountered was showing the increased values on the y-axis for visualisation. It wasn't showing because it was a string column, so I used the case function to convert the data type to a float column.
+1. The problem I encountered was the increased values on the y-axis for visualisation that was showing. It wasn't showing because it was a string column, so I used the case function to convert the data type to a float column.
 
-The $ sign also gave me a problem and because i didnt want to take it out of my code, i then used the substring so the postgresql does not pick the $ sign 
+2. The $ sign also gave me a problem and because i didnt want to take it out of my code, i then used the substring so the postgresql does not pick the $ sign 
+
+3. I couldnt get dates higher than where greater than 1981 which were contraints to 1981 only, so i has to intorduce 'date_part' to be able to get it
+
 
 ## Conclusion:
 It was really an interesting dataset to workwith and I think they should not reduce the clerk's salary anymore 😄
