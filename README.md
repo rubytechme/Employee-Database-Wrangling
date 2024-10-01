@@ -1,4 +1,4 @@
-# SQL-Employee-Data-Analysis
+# Employee-Database-Wrangling
 
 ![](intro.image.jpeg)
 ---
