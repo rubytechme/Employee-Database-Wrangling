@@ -1,4 +1,4 @@
-# Employee-Database-Wrangling
+# SQL-Data-Wrangling
 
 ![](intro.image.jpeg)
 ---
